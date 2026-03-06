@@ -22,7 +22,7 @@ Gradle version `9+` is recommended but `8.14.3+` works as well.
 In your mods `build.gradle` apply all needed plugins like **Shadow** and **Fabric Loom** and then add the following line:
 
 ```groovy
-apply from: "https://raw.githubusercontent.com/henkelmax/mod-gradle-scripts/${mod_gradle_script_version}/mod.gradle"
+apply from: "https://raw.githubusercontent.com/fletchly/mod-gradle-scripts/${mod_gradle_script_version}/mod.gradle"
 ```
 
 ### Properties
